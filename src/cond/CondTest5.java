@@ -6,7 +6,7 @@ public class CondTest5 {
 
         String speak = switch (grade){
             case "A" -> "굿굿굿";
-            case "B" -> "흠";
+            case "B" -> "흠흠흠";
             default -> "..";
         };
         System.out.println(speak);
