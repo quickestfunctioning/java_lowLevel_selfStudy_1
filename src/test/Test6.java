@@ -10,7 +10,7 @@ public class Test6 {
         scanner.nextLine();
         int num2 = scanner.nextInt();
         scanner.nextLine();
-        int num3 = 0;
+        int num3 ;
 
         if (num1>num2){
             num3 = num1;
